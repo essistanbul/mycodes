@@ -1,4 +1,3 @@
-
 import sqlite3 import os from bing_image_downloader.downloader import download from PIL import Image
 klasor_adi = "resim_klasoru" db_adi = "resimler.sqlite3"
 if not os.path.exists(klasor_adi): os.makedirs(klasor_adi)
