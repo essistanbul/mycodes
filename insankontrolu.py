@@ -20,3 +20,4 @@ else:
 devam = input("Devam etmek istiyor musunuz? (Evet/Hayır): ")
 if devam.lower() != "evet":
     break
+
