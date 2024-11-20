@@ -1,5 +1,5 @@
 class KiyafetDegisimEtkinligi:
-    def __init__(self):
+    def __init__(self): # init nesneleri başlatmak için
         self.katilimcilar = {}
         self.kiyafetler = [
             "sarı şapka",
